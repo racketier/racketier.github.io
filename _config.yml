@@ -8,31 +8,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Brian Huang / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Brian Huang"
+description              : &description "CS @ UCSC | Networking & Cybersecurity Enthusiast"
+url                      : https://racketier.github.io # the base hostname & protocol for your site e.g. "https://racketier.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "racketier/racketier.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "C1486CA0-2385-493D-8EDB-13C1A31E42A2.JPG"
+  name             : "Brian Huang"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "4th year Computer Science @ UCSC | Hopefully PhD soon..."
+  location         : "California, USA"
+  employer         : "University of California, Santa Cruz"
+  uri              : https://racketier.github.io # URL
+  email            : "bhuang69@ucsc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5hndu_8AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "racketier"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "brian_huangg" # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "bhuang536"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
