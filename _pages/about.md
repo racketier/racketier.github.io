@@ -15,6 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Brian Huang and I'm an (soon to be) CSE Ph.D. student. Currently, my research interests lie broadly in network security and internet privacy. I'm very fortunate to be able to work with Prof. Ram. As of late, I've been doing some research into Deep Packet Inspection systems deployed in the real world. My goal is to be able to create a more secure and free internet. 
+# Background
+Hi! My name is **Brian Huang**, and I’m a (soon-to-be) **CSE Ph.D. student**. I graduated with a B.S. and honors from UC Santa Cruz where I was super fortunate to have been able to work with [Prof. Ram](https://ramakrishnansr.com/).
 
-Outside of school, I love playing badminton, golf, and video games. Fun fact, I was the president of the UCSC Badminton Club during my undergrad! I've built a few pcs and keyboards, and I'm working on building a NAS. I'm also an avid foodie/cook!
+# Research Interests
+My current research lied broadly in the areas of **network security and internet privacy**. 
+
+At UCSC, I worked with **Prof. Ram**, where we investigated real-world DPI deployments and their impact on online security and censorship. My goal is to develop strategies that **enhance internet freedom** while strengthening security measures.
+
+# Hobbies & Interests
+Outside of research, I enjoy playing **badminton, golf, and video games**. I also love **building PCs and mechanical keyboards**, and I’m currently working on building a **NAS**. Additionally, I’m an **avid foodie and cook**.
