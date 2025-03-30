@@ -6,5 +6,8 @@ description:
 nav: true
 nav_order: 6
 ---
+## UCI
+soon!
 
-CSE 150 Intro to Computer Networks - Group Tutor
+## UCSC
+CSE 150: Intro to Computer Networks - Group Tutor
